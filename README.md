@@ -2,11 +2,11 @@
 
 Chrome extension: Hide ads from Rakuten Ichiba search results - 楽天の検索結果の上位に挿入される広告を隠します。
 
-Before:
+**Before**
 
 ![](screenshot-before.png)
 
-After:
+**After**
 
 ![](screenshot-after.png)
 

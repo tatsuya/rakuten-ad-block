@@ -16,7 +16,7 @@ Chrome extension: Hide ads from Rakuten Ichiba search results - 楽天の検索�
 
 ## Credits
 
-[Stop](https://github.com/tatsuyaoiw/rakuten-ad-block/blob/master/icon.png) designed by [Márcio Duarte](http://www.thenounproject.com/marc_io) from the [Noun Project](http://www.thenounproject.com)
+[Stop icon](https://github.com/tatsuyaoiw/rakuten-ad-block/blob/master/icon.png) designed by [Márcio Duarte](http://www.thenounproject.com/marc_io) from the [Noun Project](http://www.thenounproject.com)
 
 ## Licence
 

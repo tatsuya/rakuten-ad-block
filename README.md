@@ -1,4 +1,4 @@
-# Rakuten Ad Block - 楽天検索広告ブロック
+# [Rakuten Ad Block - 楽天検索広告ブロック][Chrome Web Store]
 
 Chrome extension: Hide ads from Rakuten Ichiba search results - 楽天の検索結果の上位に挿入される広告を消す拡張機能。
 
